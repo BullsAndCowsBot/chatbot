@@ -1,6 +1,8 @@
 # BullsAndCows-chatbot
 숫자야구 챗봇 프로젝트
 
+<img src=".\imgs\logo.png"/>
+
 ## 1. 게임 규칙
 
 숫자야구는 감춰진 3개의 숫자를 맞추는 게임입니다.
