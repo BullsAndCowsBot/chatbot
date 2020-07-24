@@ -72,6 +72,8 @@ protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivi
 
 이번에는 사용자가 Chat Bot의 시나리오를 벗어나지 않고 기능을 제안할 수 있는 버튼을 만드는 방법에 대해 알아보았습니다.
 
+지금까지 구현된 Chat Bot의 코드는 모두 [이 곳](https://github.com/BullsAndCowsBot/chatbot/tree/master/project/BullsAndCows_0.1)에 올라와 있습니다. 또 현재 [이 곳](https://bullsandcowsbot.github.io/bullsandcows_v01.html)에서 Chat Bot의 예시를 확인할 수 있습니다. 
+
 ------
 
 이 프로젝트는 KCC2020에서 이루어진 **Microsoft와 함께하는 Chatbot 경진대회**에서 진행되었습니다.
