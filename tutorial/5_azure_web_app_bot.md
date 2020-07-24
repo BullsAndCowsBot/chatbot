@@ -36,7 +36,7 @@ Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 �
 나타나는 화면에서 기존에 사용하고 있는 앱 서비스가 있으면 선택해주시면 되고, 새로 생성하시려면
 '새로 생성' 버튼을 클릭하시고, 앱 서비스 계획의 이름을 입력한 뒤 Korea Central로 위치를 바꿔주시면 됩니다.
 
-<img src="..\imgs\appService.PNG"/>
+<img src="..\imgs\appService.png"/>
 
 최종적으로 만들기를 눌러주시면, 약간의 소요시간 후에 서비스가 잘 생성된 것을 보실 수 있습니다.
 다시 리소스 그룹을 확인해보시면 '웹 앱 봇', 'App Service', 'App Service 계획' 3가지가 생성된 것을
