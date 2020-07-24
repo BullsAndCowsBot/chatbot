@@ -12,6 +12,8 @@ Bulls And Cows Chat Bot: 숫자 야구 챗봇 프로젝트
 
 [첫번째, Echo Bot 만들기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/0_echobot.md)
 
+[두번째, Message 수정하기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/1_modify_message.md)
+
 
 
 ## 1. 기본 게임 규칙
