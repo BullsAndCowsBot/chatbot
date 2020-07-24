@@ -2,7 +2,7 @@
 
 이 문서에서는 Azure을 사용하여 **web app bot**을 만들어 배포하는 것에 대해 다룹니다.
 
-### 0. 'Azure' wep app bot 만들기
+### 0. 'Azure' web app bot 만들기
 
 우선 Azure을 사용할 수 있는 계정을 준비해야 합니다.
 Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 신청해서 사용할 수 있습니다.
@@ -21,7 +21,7 @@ Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 �
 
 <img src="..\imgs\add_resourceGroup(2).PNG"/>
 
-이후에 나타나는 화면에서 Wep App Bot을 검색, 클릭하여 만들기를 클릭합니다.
+이후에 나타나는 화면에서 Web App Bot을 검색, 클릭하여 만들기를 클릭합니다.
 그러고나면 세부 정보를 입력할 수 있는 화면이 나타납니다.
 먼저 봇의 이름(봇 핸들)을 중복되지 않도록 입력합니다.
 다음으로 구독과 리소스 그룹 정보를 설정하고 위치를 Korea Central로 설정한 뒤,
@@ -36,7 +36,7 @@ Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 �
 나타나는 화면에서 기존에 사용하고 있는 앱 서비스가 있으면 선택해주시면 되고, 새로 생성하시려면
 '새로 생성' 버튼을 클릭하시고, 앱 서비스 계획의 이름을 입력한 뒤 Korea Central로 위치를 바꿔주시면 됩니다.
 
-<img src="..\imgs\appService.png"/>
+<img src="..\imgs\appService.PNG"/>
 
 최종적으로 만들기를 눌러주시면, 약간의 소요시간 후에 서비스가 잘 생성된 것을 보실 수 있습니다.
 다시 리소스 그룹을 확인해보시면 '웹 앱 봇', 'App Service', 'App Service 계획' 3가지가 생성된 것을
