@@ -18,6 +18,8 @@ Bulls And Cows Chat Bot: 숫자 야구 챗봇 프로젝트
 
 [네번째, 버튼으로 기능 유도하기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/3_suggestion.md)
 
+[다섯번째, 대화내용 기억하기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/4_save_conversation_data.md)
+
 
 
 ## 1. 기본 게임 규칙
