@@ -7,23 +7,23 @@
 Microsoft Azure 포털에서 자신이 만든 웹 앱 봇을 클릭합니다.
 이 후, 왼쪽 메뉴에서 '채널'을 선택합니다.
 
-<img src="..\imgs\chooseChanel.png"/>
+<img src="..\imgs\chooseChanel.PNG"/>
 
 나타나는 화면에서 '봇 임베드 코드 얻기'를 클릭합니다.
 
-<img src="..\imgs\getCode.png"/>
+<img src="..\imgs\getCode.PNG"/>
 
 'Web Chat 구성 페이지를 열려면 이곳을 클릭하세요.'를 클릭합니다.
 
-<img src="..\imgs\botCodeMenu.png"/>
+<img src="..\imgs\botCodeMenu.PNG"/>
 
 여기서 임베드 코드를 본인이 파일에 복사한 뒤, '내 비밀' 영역에 암호키를 입력합니다.
 
-<img src="..\imgs\botCodePW.png"/>
+<img src="..\imgs\botCodePW.PNG"/>
 
 암호키가 입력된 html 파일을 잘 저장합니다.
 
-<img src="..\imgs\vsBotCode.png"/>
+<img src="..\imgs\vsBotCode.PNG"/>
 
 ### 1. Github를 통해 Addressable한 URL 만들기(웹 호스팅)
 
@@ -32,34 +32,34 @@ Microsoft Azure 포털에서 자신이 만든 웹 앱 봇을 클릭합니다.
 
 우측 상단에 있는 + 버튼을 누른 뒤, 'New repository'를 클릭합니다.
 
-<img src="..\imgs\github(make_repository).png"/>
+<img src="..\imgs\github(make_repository).PNG"/>
 
 repository 이름을 작성해주신 후 공개여부는 public을 선택하시고,
 아래 초기화 하겠냐는 체크 박스를 클릭해주신 뒤, 'create repository'를 클릭해주시면 됩니다.
 
-<img src="..\imgs\github(input_Info_Repository).png"/>
+<img src="..\imgs\github(input_Info_Repository).PNG"/>
 
 1-2. repository가 만들어지면 'ADD file' 버튼을 누르면 나오는 메뉴에서 'Upload files'을 선택합니다.
 
-<img src="..\imgs\github(choose_upload_file).png"/>
+<img src="..\imgs\github(choose_upload_file).PNG"/>
 
 이 후, choose your files를 선택하신 뒤에 아까 전에 저장한 봇 임베드 코드가 저장되어 있는 html 파일을 upload합니다.
 (image 파일 등 호스팅할 관련 파일들을 upload한다고 생각하시면 됩니다)
 
-<img src="..\imgs\github(uploadFiles).png"/>
+<img src="..\imgs\github(uploadFiles).PNG"/>
 
 잘 업로드가 되었다면, Commit changes 공간에서 내용을 입력하시고 'commit changes'를 누르시면 됩니다.
 (간단하게 변경사항에 대해 기재할 수 있는 공간이라고 생각하시면 됩니다)
 
-<img src="..\imgs\github(commit).png"/>
+<img src="..\imgs\github(commit).PNG"/>
 
 1-3. 이제 저장소에 파일들이 잘 업로드 되었다면, 상단에 'Settings' 탭으로 이동합니다.
 
-<img src="..\imgs\github(choose_settings).png"/>
+<img src="..\imgs\github(choose_settings).PNG"/>
 
 아래로 쭉 내리시다보면, 'GitHub Pages' 항목이 있는데 여기서 'None'을 'master branch'으로 바꿔줍니다.
 
-<img src="..\imgs\github(choose_master).png"/>
+<img src="..\imgs\github(choose_master).PNG"/>
 
 새로고침된 페이지를 쭉 다시 내리시면,
 "Your site is ready to be published at https://(깃허브 아이디).github.io/(현재 저장소 이름)/."
@@ -68,7 +68,7 @@ repository 이름을 작성해주신 후 공개여부는 public을 선택하시�
 이제 주소창에 해당 url을 입력하신 뒤 마지막 '/'뒤에 자신이 웹 호스팅을 통해 열고자 하는 업로드한 html 파일명을 입력하시면
 만들어진 web chatbot을 확인하실 수 있습니다.
 
-<img src="..\imgs\github(final).png"/>
+<img src="..\imgs\github(final).PNG"/>
 
 ---
 
