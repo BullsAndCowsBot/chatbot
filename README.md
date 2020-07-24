@@ -16,6 +16,10 @@ Bulls And Cows Chat Bot: 숫자 야구 챗봇 프로젝트
 
 [네번째, 버튼으로 기능 유도하기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/3_suggestion.md)
 
+[다섯번째, web app bot 만들고 배포하기](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/5_azure_web_app_bot.md)
+
+[여섯번째, Addressable한 web chatbot 만들기(github 웹 호스팅)](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/6_github_page.md)
+
 ## 1. 기본 게임 규칙
 
 숫자야구는 감춰진 3개의 숫자를 맞추는 게임입니다.
