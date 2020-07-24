@@ -22,7 +22,7 @@
 
 [이전 튜토리얼](https://github.com/BullsAndCowsBot/chatbot/blob/master/tutorial/0_echobot.md)에서 Echo Bot 프로젝트를 생성하고 이를 Emulator로 테스트했습니다.
 
-Echo Bot에 접속하면 Bot의 첫 메시지는 **Hello and welcome!**이며 사용자의 입력에 **Echo:**를 붙여 메시지를 전달합니다.
+Echo Bot에 접속하면 Bot의 첫 메시지는 **Hello and welcome**이며 사용자의 입력에 **Echo**를 붙여 메시지를 전달합니다.
 
 <img src="..\imgs\welcome.png"/>
 
@@ -52,7 +52,7 @@ protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivi
 
 
 
-Chat Bot의 첫 메시지인 **Hello and welcome!**은 `OnMembersAddedAsync`에 구현되어 있습니다. 테스트를 통해 알아볼 수 있듯이 `OnMembersAddedAsync`는 사용자가 처음 접근했을 때 동작합니다. 
+Chat Bot의 첫 메시지인 **Hello and welcome**은 `OnMembersAddedAsync`에 구현되어 있습니다. 테스트를 통해 알아볼 수 있듯이 `OnMembersAddedAsync`는 사용자가 처음 접근했을 때 동작합니다. 
 
 ```c#
 protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
@@ -68,7 +68,7 @@ protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersA
 }
 ```
 
-따라서 코드의 **Hello and welcome!**을 다른 문자열로 수정하면 우리가 원하는 첫 메시지로 바꿀 수 있습니다.
+따라서 코드의 **Hello and welcome**을 다른 문자열로 수정하면 우리가 원하는 첫 메시지로 바꿀 수 있습니다.
 
 
 
@@ -76,7 +76,7 @@ protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersA
 
 ------
 
-이 프로젝트는 KCC2020에서 이루어진 **'Microsoft와 함께하는 Chatbot 경진대회'**에서 진행되었습니다.
+이 프로젝트는 KCC2020에서 이루어진 **Microsoft와 함께하는 Chatbot 경진대회**에서 진행되었습니다.
 
 
 
