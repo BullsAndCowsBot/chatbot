@@ -36,7 +36,7 @@ Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 �
 나타나는 화면에서 기존에 사용하고 있는 앱 서비스가 있으면 선택해주시면 되고, 새로 생성하시려면
 '새로 생성' 버튼을 클릭하시고, 앱 서비스 계획의 이름을 입력한 뒤 Korea Central로 위치를 바꿔주시면 됩니다.
 
-<img src="..\imgs\appService.PNG"/>
+<img src="..\imgs\appService.png"/>
 
 최종적으로 만들기를 눌러주시면, 약간의 소요시간 후에 서비스가 잘 생성된 것을 보실 수 있습니다.
 다시 리소스 그룹을 확인해보시면 '웹 앱 봇', 'App Service', 'App Service 계획' 3가지가 생성된 것을
@@ -49,7 +49,7 @@ Azure을 사용하기 위한 적당한 subscription이 없다면 평가판을 �
 
 <img src="..\imgs\IDPW.PNG"/>
 
-이렇게 하면 Azure 페이지에서 wepp app bot을 만드는 과정은 완료됩니다.
+이렇게 하면 Azure 페이지에서 web app bot을 만드는 과정은 완료됩니다.
 
 ### 1. Visual Studio에서 배포하기
 
@@ -60,7 +60,7 @@ visual studio를 통해 프로젝트를 킨 뒤, 우측 솔루션 탐색기에�
 
 이 후, 솔루션 탐색기에서 프로젝트 이름 위에서 마우스 우클릭을 해서 '게시' 항목을 클릭합니다.
 
-<img src="..\imgs\post(vs).PNG"/>
+<img src="..\imgs\post(vs).png"/>
 
 그럼 다음과 같은 화면이 나오게 되고, 여기서 Azure을 선택한 뒤, 본인 개발 환경에 맞춰 선택을 해주시면 됩니다.
 
