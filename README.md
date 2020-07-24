@@ -45,7 +45,7 @@ ex) 감춰진 숫자가 369인 경우
 '도전 숫자 야구'는 사용자의 입력에 의해 인사말과 로고와 함께 시작합니다.
 (미리 설정된 사항 외 입력 시에는 특정 멘트와 함께 선택할 수 있는 메뉴가 제공됩니다)
 
-<img src=".\imgs\start_screen.png"/> (시작 화면)
+<img src=".\imgs\start_screen.PNG"/> (시작 화면)
 
 게임 모드는 2가지가 있습니다.
 '일반 게임 모드' : 제한된 횟수 내에서 숫자를 맞추어야 승리하는 모드
@@ -55,9 +55,9 @@ ex) 감춰진 숫자가 369인 경우
 
 '게임 시작'을 입력하면 멘트와 함께 게임이 시작됩니다.
 
-<img src=".\imgs\start_normalMode.png"/>
+<img src=".\imgs\start_normalMode.PNG"/>
 
-<img src=".\imgs\start_infinityMode.png"/>
+<img src=".\imgs\start_infinityMode.PNG"/>
 
 봇의 숫자를 맞추기 위해, 세 개의 숫자를 한번에 입력하여 메세지를 보냅니다.
 
@@ -74,15 +74,15 @@ ex) 369, 345, 789, 123
 
 ex) [1S 0B 2O]
 
-<img src=".\imgs\ask_example.png"/>
+<img src=".\imgs\ask_example.PNG"/>
 
-<img src=".\imgs\notDigit.png"/>
+<img src=".\imgs\notDigit.PNG"/>
 
-<img src=".\imgs\repetition.png"/>
+<img src=".\imgs\repetition.PNG"/>
 
-<img src=".\imgs\OverNumber.png"/>
+<img src=".\imgs\OverNumber.PNG"/>
 
 최종적으로 3S, 즉 세 자리 숫자와 각각의 위치까지 정확히 맞추게 되면 게임이 종료되게 됩니다.
 (일반 모드에서는 정해진 횟수 내에 클리어해야 합니다!)
 
-<img src=".\imgs\gameEnd.png"/>
+<img src=".\imgs\gameEnd.PNG"/>
