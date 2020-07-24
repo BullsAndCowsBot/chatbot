@@ -24,7 +24,7 @@
 
 Echo Bot에 접속하면 Bot의 첫 메시지는 **Hello and welcome!**이며 사용자의 입력에 **Echo:**를 붙여 메시지를 전달합니다.
 
-![입장](..\imgs\welcome.png)
+<img src="..\imgs\welcome.png"/>
 
 이번에는 `EchoBot.cs`의 구조를 이해하고 코드를 수정하는 것으로 Bot의 응답 메시지를 바꾸어 테스트 해보겠습니다.
 
